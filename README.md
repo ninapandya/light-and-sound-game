@@ -1,7 +1,7 @@
 ### SITE Pre-Work Submission
 #### Name: Nina Pandya
 
-<img src="https://media.giphy.com/media/v6zGhkQxHxvDWYPDva/giphy.gif" width=200><br>
+<img src="https://media.giphy.com/media/v6zGhkQxHxvDWYPDva/giphy.gif" width=400><br>
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
 
