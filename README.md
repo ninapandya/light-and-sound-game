@@ -1,6 +1,5 @@
-SITE Pre-Work Submission
-<br>
-Name: Nina Pandya
+### SITE Pre-Work Submission
+#### Name: Nina Pandya
 
 <img src="https://media.giphy.com/media/v6zGhkQxHxvDWYPDva/giphy.gif" width=200><br>
 
