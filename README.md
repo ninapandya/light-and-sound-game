@@ -19,10 +19,10 @@ so that the sequence would play again after the strike. </b>
 
 3. What questions about web development do you have after completing your submission?
 
-<b>Is this the usual process for creating a web development project? What additional steps should we take?
-Are there different types of web developers working on specific aspects of the website? Like, the style, the index.html file, the javascript portion, etc.
-What is the best way to learn how to develop on the web? Pratice, pratice, practice, I assume? Any tips or tricks?
-What do web developers do when they get stuck on a particular feature?
+<b>Is this the usual process for creating a web development project? What additional steps should we take?<br><br>
+Are there different types of web developers working on specific aspects of the website? Like, the style, the index.html file, the javascript portion, etc.<br><br>
+What is the best way to learn how to develop on the web? Pratice, pratice, practice, I assume? Any tips or tricks?<br><br>
+What do web developers do when they get stuck on a particular feature?<br><br>
 How is web development different from software development? And, what particular skills do you need for each?</b>
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific.
